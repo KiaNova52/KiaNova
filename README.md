@@ -23,7 +23,12 @@ I'm a beginner web developer from Kenya who is passionate about technology and l
 - Publish projects on GitHub.
 
 ## Setup
-Git configuration output will be added here after completing Task 0.2.
+Git global configuration:
+
+```text
+user.name=Kelvin Kiarie
+user.email=kelvinkiarie466@gmail.com
+```
 
 ## Links
 - **GitHub Profile:** https://github.com/KiaNova52
