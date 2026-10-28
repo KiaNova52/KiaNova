@@ -33,7 +33,6 @@ user.email=kelvinkiarie466@gmail.com
 ## Links
 - **GitHub Profile:** https://github.com/KiaNova52
 - **Personal Website:** https://KiaNova52.github.io/
-- **Markdown Practice:** Add the markdown-practice.md link after completing Task 0.5.
-
+- **Markdown Practice:** [View my Markdown practice](https://github.com/KiaNova52/KiaNova52/blob/main/markdown-practice.md)
 ## Week 0 Team
 Team details and links will be added after completing Tasks 0.6 and 0.7.
