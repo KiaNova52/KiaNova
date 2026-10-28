@@ -20,7 +20,7 @@ I'm currently building my programing skills through practical projects and open-
 - Javascript
 - Data analysis
 ## Current Projects
-- [Project name](link) — short description
+- [Learning HTML](link) — Am currently learning how to code HTML and CSS. 
 
 ## How to Reach Me
 - Email: kelvnkiarie466@gmail.com
