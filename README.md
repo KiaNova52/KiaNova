@@ -32,7 +32,7 @@ user.email=kelvinkiarie466@gmail.com
 
 ## Links
 - **GitHub Profile:** https://github.com/KiaNova52
-- **Personal Website:** Add your GitHub Pages link after completing Task 0.4.
+- **Personal Website:** https://KiaNova52.github.io/
 - **Markdown Practice:** Add the markdown-practice.md link after completing Task 0.5.
 
 ## Week 0 Team
