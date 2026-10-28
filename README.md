@@ -1,28 +1,34 @@
-# Hi, I'm Kelvin Kiarie.
-I'm a beginner developer passionate about technology, AI, web development and data analysis.
-I'm currently building my programing skills through practical projects and open-source learning.
- 
+
+# Hi, I'm Kelvin 👋
+
 ## About Me
--   I'm currently learning programming and web development at Wecan academy. Am also learning Data analysis online.
-- I'm interested in AI, web development, and data science.
-- I'm looking to collaborate on beginner-friendly open source projects.
+I'm a beginner web developer from Kenya who is passionate about technology and learning new skills.
 
-## My goals
-- Become a skilled software developer.
-- Build useful web applications.
-- Learn more about AI and machine learning.
-- Improve my data analysis skills.
-- Contribute to open source projects.
-  
-## Skills I'm Building
+- 🌱 I'm currently learning HTML, CSS, JavaScript, Git, and GitHub.
+- 💻 I'm working on improving my web development skills through practical projects.
+- 🚀 My goal is to use technology to solve problems and build useful projects.
+- 📚 I enjoy learning, exploring new ideas, and developing my technical knowledge.
+
+## Skills I'm Learning
+- HTML5
+- CSS3
+- JavaScript
 - Git and GitHub
-- Python, "HTML/CSS", Machine Learning.
-- Javascript
-- Data analysis
-## Current Projects
-- [Learning HTML](link) — Am currently learning how to code HTML and CSS. 
+- Markdown
 
-## How to Reach Me
-- Email: kelvnkiarie466@gmail.com
-- Github:KiaNova52
-  
+## Current Goals
+- Build my first personal website.
+- Learn how to collaborate with other developers.
+- Practise writing clean, organised code.
+- Publish projects on GitHub.
+
+## Setup
+Git configuration output will be added here after completing Task 0.2.
+
+## Links
+- **GitHub Profile:** https://github.com/KiaNova52
+- **Personal Website:** Add your GitHub Pages link after completing Task 0.4.
+- **Markdown Practice:** Add the markdown-practice.md link after completing Task 0.5.
+
+## Week 0 Team
+Team details and links will be added after completing Tasks 0.6 and 0.7.
